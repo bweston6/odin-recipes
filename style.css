@@ -1,0 +1,10 @@
+body {
+	margin-inline: auto;
+	max-width: 900px;
+	padding-inline: 1em;
+}
+img {
+	height:30vh;
+	object-fit:cover;
+	width:100%;
+}
