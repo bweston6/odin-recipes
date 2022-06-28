@@ -1,0 +1,12 @@
+body {
+	font-family: system-ui;
+	margin-inline: auto;
+	max-width: 900px;
+	padding-inline: 1em;
+}
+img {
+	height: 40vmin;
+	object-fit: cover;
+	width: 100%;
+	border-radius: 1em;
+}
